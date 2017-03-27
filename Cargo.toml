@@ -7,7 +7,6 @@ authors = ["Parity Technologies <admin@parity.io>"]
 build = "build.rs"
 
 [dependencies]
-nix = "0.7.0"
 log = "0.3"
 env_logger = "0.3"
 rustc-serialize = "0.3"
