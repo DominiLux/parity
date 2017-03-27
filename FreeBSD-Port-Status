@@ -1,0 +1,13 @@
+Sunday March, 26 2017 23:27
+I've been at it for about six hours now chasing around compile time errors.  As I find a fix for one I break something
+else.  However, i'm getting pretty close to a solution as i've gotten rid of all the original errors and now i'm seeing a whole
+new set of errors.  It seems like there is one or two more files that need modifying because they were not original coded to
+recognize a BSD Operating system.  It's all part of the process and porting software can almost be compared to trying to get a
+Volxwagon to launch itself into space...
+
+I think i'll get back to work on this some time tommorow evening for a few hours.  It is not possible for there to be much
+left to do.  The biggest issue i've been running into is having to fork other repositories because everything is somewhat
+scattered.  However, once completed I expect there to be less than 20 lines of code total to send upstream for a successfull
+master branch that will compile on Linux, Windows, OSX, and BSD systems.
+
+- Michael
